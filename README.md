@@ -24,10 +24,10 @@ Introduction to Conversational Agents and Reinforcement Learning
 We will introduce conversational agents operating within a natural language environment, an ideal context for employing reinforcement learning (RL). We will survey the methods of RL and its applications of NLP. Finally, we will cover the software requirements for the class, and ensure students can interactively follow along in coding exercises.  
 
 ### Reading: 
-
-### Coding: 
 [Write an NLU model](https://rasa.com/docs/rasa/nlu/training-data-format/)
 
+### Coding: 
+None
 
 ## Week 2 - 10/8/19
 
@@ -54,9 +54,9 @@ We will model decisions as trees and learn to efficiently search them using clas
 
 
 ### Reading:
-
+TBD
 ### Coding:
-
+TBD
 
 ## Week 4 - 10/22/19
 
@@ -67,8 +67,9 @@ Advanced Tree Searches
 We will cover how to model two player games as trees, and how the optimal strategy can be recovered from these trees. In addition, we will cover how to prune these trees to limit the total search space using alpha-beta pruning, and heuristic pruning. 
 
 ### Reading:
-
+TBD
 ### Coding:
+TBD
 
 ## Week 5 - 10/29/19
 
@@ -79,6 +80,7 @@ Dialog Management
 
 
 ### Reading:
+TBD
 
 ### Coding: 
 [Train Rasa DM with Interactive Learning](https://rasa.com/docs/rasa/core/interactive-learning/)
@@ -98,6 +100,7 @@ In this class, we will extend our tree based decision models to graphs with Mark
 [Training a real-world POMDP-based Dialogue System](https://pdfs.semanticscholar.org/c746/fe146789142262b749d362f5a0f38f3bf8ad.pdf)
 
 ### Coding:
+TBD
 
 
 ## Week 7 - 11/12/2019
@@ -109,9 +112,10 @@ Q-Learning
 Here we will introduce one of the key concepts in RL, Q-learning. This approach overcomes the limitations of MDPs and allows us to conduct on-line or off-line learning without complete information.
 
 ### Reading:
+TBD
 
 ### Coding:
-
+TBD
 
 ## Week 8 - 11/19/2019
 
@@ -142,7 +146,7 @@ We will cover advanced neural architectures for training dialog systems, e.g. A2
 [Understanding Actor Critic Methods and A2C](https://towardsdatascience.com/understanding-actor-critic-methods-931b97b6df3f)
 
 ### Coding: 
-
+TBD
 
 ## Week 10 - 12/3/2019
 
@@ -158,3 +162,4 @@ We will finish off the course with a discussion of ethics in the development of 
 [Twitter taught Microsoft’s AI chatbot to be a racist asshole in less than a day](https://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist)
 
 ### Coding:
+TBD

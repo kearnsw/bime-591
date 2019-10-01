@@ -1,5 +1,5 @@
 
-# Artificial Intelligence Methods for Conversational Agents in Healthcare
+
 
 ## Facilitators: 
 Will Kearns, Aakash Sur, BHI PhD Students and Trevor Cohen, BHI Faculty

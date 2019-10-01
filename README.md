@@ -1,37 +1,161 @@
-## Welcome to GitHub Pages
+## Title: 
+Artificial Intelligence Methods for Conversational Agents in Healthcare
 
-You can use the [editor on GitHub](https://github.com/kearnsw/bime-591/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Facilitators: 
+Will Kearns, Aakash Sur, BHI PhD Students and Trevor Cohen, BHI Faculty
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Details: 
+Tuesdays, Autumn Quarter: 11:30 am-12:20 pm, Health Sciences Building, T478
 
-### Markdown
+## Course Description:
+Through this course, students will be introduced to reinforcement learning methods and how to apply them to train health dialog systems to address specific problems in healthcare. We will cover a range of machine learning methods including tree search, tree pruning, Markov decision processes, and Q-learning. We will explore both classical methods and recent advances in the development of dialog system components including natural language understanding, dialog management, and natural language generation. The course structure will be a mixture of lectures and interactive coding sessions culminating in the deployment of a health dialog system.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We welcome questions during the class as others might share the same questions. 
+If you need individual help, please see one of the instructors after class or send a question to the group on slack. 
 
-```markdown
-Syntax highlighted code block
+## Course Reading:
+[Neural Approaches to Conversational AI Question Answering, Task-Oriented Dialogues and Social Chatbots](https://arxiv.org/pdf/1809.08267.pdf)
 
-# Header 1
-## Header 2
-### Header 3
+## Week 1 - 10/1/19
 
-- Bulleted
-- List
+### Title: 
+Introduction to Conversational Agents and Reinforcement Learning
 
-1. Numbered
-2. List
+### Description: 
+We will introduce conversational agents operating within a natural language environment, an ideal context for employing reinforcement learning (RL). We will survey the methods of RL and its applications of NLP. Finally, we will cover the software requirements for the class, and ensure students can interactively follow along in coding exercises.  
 
-**Bold** and _Italic_ and `Code` text
+### Reading: 
 
-[Link](url) and ![Image](src)
-```
+### Coding: 
+[Write an NLU model](https://rasa.com/docs/rasa/nlu/training-data-format/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Week 2 - 10/8/19
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kearnsw/bime-591/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Title: 
+Natural Language Understanding
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Description: 
+We will explore how we can train agents to understand their conversational environments.
+
+### Reading:
+
+### Coding: 
+[Train NLU model: with a Pipeline in Rasa](https://rasa.com/docs/rasa/nlu/choosing-a-pipeline/#)
+
+
+## Week 3 - 10/15/19
+
+### Title: 
+Tree Search
+
+### Description: 
+We will model decisions as trees and learn to efficiently search them using classic algorithms such as breadth-first search and depth-first search. In addition, we will introduce heuristic based searches, including A* search. 
+
+
+### Reading:
+
+### Coding:
+
+
+## Week 4 - 10/22/19
+
+### Title: 
+Advanced Tree Searches
+
+### Description: 
+We will cover how to model two player games as trees, and how the optimal strategy can be recovered from these trees. In addition, we will cover how to prune these trees to limit the total search space using alpha-beta pruning, and heuristic pruning. 
+
+### Reading:
+
+### Coding:
+
+## Week 5 - 10/29/19
+
+### Title: 
+Dialog Management
+
+### Description:
+
+
+### Reading:
+
+### Coding: 
+[Train Rasa DM with Interactive Learning](https://rasa.com/docs/rasa/core/interactive-learning/)
+
+
+## Week 6 - 11/5/2019
+
+### Title: 
+Markov Decision Processes
+
+### Description: 
+In this class, we will extend our tree based decision models to graphs with Markov models. We will learn how to calculate the best route through a Markov decision process (MDPs) using the Bellman equations. Finally, we will extend these ideas to conversational agents using partially observable Markov decision processes (POMDPs).
+
+### Reading:
+[POMDP-Based StatisticalSpoken Dialog Systems:A Review](http://cs.brown.edu/courses/csci2951-k/papers/young13.pdf)
+
+[Training a real-world POMDP-based Dialogue System](https://pdfs.semanticscholar.org/c746/fe146789142262b749d362f5a0f38f3bf8ad.pdf)
+
+### Coding:
+
+
+## Week 7 - 11/12/2019
+
+### Title: 
+Q-Learning
+
+### Description: 
+Here we will introduce one of the key concepts in RL, Q-learning. This approach overcomes the limitations of MDPs and allows us to conduct on-line or off-line learning without complete information.
+
+### Reading:
+
+### Coding:
+
+
+## Week 8 - 11/19/2019
+
+### Title: 
+Deep Q-Networks
+
+### Description: 
+Moving past basic tabular Q-learning, we will cover current approaches which revolve around Deep Q-Networks (DQN). We will cover popular examples of DQNs used to master video games, and conversations. Finally, we will cover how to efficiently train these models using experience replay. 
+
+### Reading: 
+[Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
+
+### Coding: 
+[Train dialog policy w/ episodic replay](https://rasa.com/docs/rasa/core/policies/#configuring-policies)
+
+
+## Week 9 - 11/26/2019
+
+### Title: 
+Advanced Neural Methods for Dialog Systems
+
+### Description: 
+We will cover advanced neural architectures for training dialog systems, e.g. A2C and MemNN models.
+
+### Reading:
+[Sample-efficient Actor-Critic Reinforcement Learning with Supervised Data for Dialogue Management](https://arxiv.org/pdf/1707.00130.pdf)
+
+[Understanding Actor Critic Methods and A2C](https://towardsdatascience.com/understanding-actor-critic-methods-931b97b6df3f)
+
+### Coding: 
+
+
+## Week 10 - 12/3/2019
+
+### Title: 
+Ethics and NLG
+
+### Description: 
+We will finish off the course with a discussion of ethics in the development of dialog systems using two case studies and then focus the discussion on health dialog systems in particular.
+
+### Reading:
+[The Design and Implementation of XiaoIce, an Empathetic Social Chatbot](https://arxiv.org/abs/1812.08989)
+
+[Twitter taught Microsoft’s AI chatbot to be a racist asshole in less than a day](https://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist)
+
+### Coding:

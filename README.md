@@ -39,7 +39,7 @@ Natural Language Understanding
 We will explore how we can train agents to understand their conversational environments.
 
 ### Reading:
-
+[Dynamic Integration of Background Knowledge in Neural NLU Systems](https://arxiv.org/pdf/1706.02596v3.pdf)
 ### Coding: 
 [Train NLU model: with a Pipeline in Rasa](https://rasa.com/docs/rasa/nlu/choosing-a-pipeline/#)
 

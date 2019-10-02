@@ -15,6 +15,8 @@ If you need individual help, please see one of the instructors after class or se
 ## Course Reading:
 [Neural Approaches to Conversational AI Question Answering, Task-Oriented Dialogues and Social Chatbots](https://arxiv.org/pdf/1809.08267.pdf)
 
+Designing Voice User Interfaces: Principles of Conversational Experiences by Cathy Pearl
+
 ## Week 1 - 10/1/19
 
 ### Title: 

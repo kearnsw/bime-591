@@ -23,7 +23,10 @@ If you need individual help, please see one of the instructors after class or se
 Introduction to Conversational Agents and Reinforcement Learning
 
 ### Description: 
-We will introduce conversational agents operating within a natural language environment, an ideal context for employing reinforcement learning (RL). We will survey the methods of RL and its applications of NLP. Finally, we will cover the software requirements for the class, and ensure students can interactively follow along in coding exercises.  
+We will introduce conversational agents operating within a natural language environment, an ideal context for employing reinforcement learning (RL). We will survey the methods of RL and its applications of NLP. Finally, we will cover the software requirements for the class, and ensure students can interactively follow along in coding exercises. 
+
+### Lecture:
+[Week 1 Slides](https://github.com/kearnsw/bime-591/raw/master/lectures/Week%201.pdf)
 
 ### Reading: 
 [Write an NLU model](https://rasa.com/docs/rasa/nlu/training-data-format/)

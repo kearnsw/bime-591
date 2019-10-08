@@ -43,13 +43,16 @@ Natural Language Understanding
 ### Description: 
 We will explore how we can train agents to understand their conversational environments.
 
+### Lecture:
+[Week 2 Slides](https://github.com/kearnsw/bime-591/blob/master/lectures/bime-591-week-2-nlu.pptx)
+
 ### Reading:
 [ONENET:Joint Domain, Intent, Slot Prediction for Spoken Language Understanding](https://www.microsoft.com/en-us/research/publication/onenet-joint-domain-intent-slot-prediction-spoken-language-understanding/)
 
 [Dynamic Integration of Background Knowledge in Neural NLU Systems](https://arxiv.org/pdf/1706.02596v3.pdf)
 
 ### Coding: 
-[Train NLU model: with a Pipeline in Rasa](https://rasa.com/docs/rasa/nlu/choosing-a-pipeline/#)
+[Train NLU model: with a Pipeline in Rasa](https://rasa.com/docs/rasa/nlu/using-nlu-only/)
 
 
 ## Week 3 - 10/15/19

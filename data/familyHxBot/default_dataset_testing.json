@@ -1,0 +1,2312 @@
+{
+    "reportFamilycondition": [
+        [
+            {
+                "type": "Text",
+                "value": "there's a history of "
+            },
+            {
+                "value": "heart disease",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "greet we have history of "
+            },
+            {
+                "value": "high blood pressure",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "greet we have past history of "
+            },
+            {
+                "value": "Parkinson's",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "my grandmother "
+            },
+            {
+                "value": "bipolar disorder",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "we have past history of "
+            },
+            {
+                "value": "melanoma",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "greet there's a history of "
+            },
+            {
+                "value": "diabetes",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "my cousin history of "
+            },
+            {
+                "value": "colon cancer",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "we have history of "
+            },
+            {
+                "value": "hypertension",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "we have past history of "
+            },
+            {
+                "value": "hypertension",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "my family has has "
+            },
+            {
+                "value": "heart disease",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "greet we have history of "
+            },
+            {
+                "value": "stroke",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "greet we have "
+            },
+            {
+                "value": "mental illness",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "we have history of "
+            },
+            {
+                "value": "colon cancer",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "my brother past history of "
+            },
+            {
+                "value": "hypertension",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "greet we have "
+            },
+            {
+                "value": "heart disease",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "my aunt past history of "
+            },
+            {
+                "value": "stroke",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "greet there's a history of "
+            },
+            {
+                "value": "schizophrenia",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "my grandmother "
+            },
+            {
+                "value": "breast cancer",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "my cousin "
+            },
+            {
+                "value": "Parkinson's",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "greet my family has history of "
+            },
+            {
+                "value": "schizophrenia",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "my sister past history of "
+            },
+            {
+                "value": "high blood pressure",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "my grandmother "
+            },
+            {
+                "value": "cancer",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "greet we have history of "
+            },
+            {
+                "value": "breast cancer",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "we have history of "
+            },
+            {
+                "value": "heart disease",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "my brother has "
+            },
+            {
+                "value": "melanoma",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "greet we have "
+            },
+            {
+                "value": "cancer",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "we have past history of "
+            },
+            {
+                "value": "Parkinson's",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "my family has "
+            },
+            {
+                "value": "depression",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "my family has "
+            },
+            {
+                "value": "diabetes",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "my grandmother "
+            },
+            {
+                "value": "melanoma",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "my family has history of "
+            },
+            {
+                "value": "diabetes",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "greet my family has history of "
+            },
+            {
+                "value": "diabetes",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "we have has "
+            },
+            {
+                "value": "high blood pressure",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "greet my family has "
+            },
+            {
+                "value": "cancer",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "we have past history of "
+            },
+            {
+                "value": "stroke",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "greet we have past history of "
+            },
+            {
+                "value": "breast cancer",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "we have history of "
+            },
+            {
+                "value": "schizophrenia",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "my mother history of "
+            },
+            {
+                "value": "bipolar disorder",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "greet my family has past history of "
+            },
+            {
+                "value": "hypertension",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "there's a past history of "
+            },
+            {
+                "value": "breast cancer",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "my grandfather history of "
+            },
+            {
+                "value": "depression",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "we have has "
+            },
+            {
+                "value": "breast cancer",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "greet there's a history of "
+            },
+            {
+                "value": "breast cancer",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "my aunt has "
+            },
+            {
+                "value": "hypertension",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "greet my family has history of "
+            },
+            {
+                "value": "Parkinson's",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "my grandfather has "
+            },
+            {
+                "value": "heart disease",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "greet there's a past history of "
+            },
+            {
+                "value": "colon cancer",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "there's a "
+            },
+            {
+                "value": "depression",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "there's a "
+            },
+            {
+                "value": "melanoma",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "my father past history of "
+            },
+            {
+                "value": "cancer",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "we have has "
+            },
+            {
+                "value": "lung cancer",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "we have "
+            },
+            {
+                "value": "breast cancer",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "my uncle history of "
+            },
+            {
+                "value": "melanoma",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "there's a has "
+            },
+            {
+                "value": "hypertension",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "greet my family has has "
+            },
+            {
+                "value": "breast cancer",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "my father history of "
+            },
+            {
+                "value": "mental illness",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "greet we have has "
+            },
+            {
+                "value": "prostate cancer",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "greet we have past history of "
+            },
+            {
+                "value": "hypertension",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "there's a has "
+            },
+            {
+                "value": "diabetes",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "greet there's a past history of "
+            },
+            {
+                "value": "hypertension",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "my grandmother has "
+            },
+            {
+                "value": "stroke",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "we have history of "
+            },
+            {
+                "value": "high blood pressure",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "my family has has "
+            },
+            {
+                "value": "diabetes",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "greet my family has history of "
+            },
+            {
+                "value": "lung cancer",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "greet there's a "
+            },
+            {
+                "value": "heart disease",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "greet there's a has "
+            },
+            {
+                "value": "high blood pressure",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "my grandmother history of "
+            },
+            {
+                "value": "high blood pressure",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "my father "
+            },
+            {
+                "value": "high blood pressure",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "my father "
+            },
+            {
+                "value": "depression",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "my family has has "
+            },
+            {
+                "value": "hypertension",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "my aunt past history of "
+            },
+            {
+                "value": "breast cancer",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "my uncle "
+            },
+            {
+                "value": "hypertension",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "there's a history of "
+            },
+            {
+                "value": "bipolar disorder",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "my father history of "
+            },
+            {
+                "value": "stroke",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "my brother "
+            },
+            {
+                "value": "diabetes",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "my aunt past history of "
+            },
+            {
+                "value": "hypertension",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "greet my family has history of "
+            },
+            {
+                "value": "colon cancer",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "there's a "
+            },
+            {
+                "value": "asthma",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "my family has has "
+            },
+            {
+                "value": "asthma",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "we have past history of "
+            },
+            {
+                "value": "breast cancer",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "greet we have "
+            },
+            {
+                "value": "colon cancer",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "greet my family has history of "
+            },
+            {
+                "value": "breast cancer",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "my uncle past history of "
+            },
+            {
+                "value": "mental illness",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "my cousin "
+            },
+            {
+                "value": "high blood pressure",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "there's a has "
+            },
+            {
+                "value": "depression",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "greet we have history of "
+            },
+            {
+                "value": "bipolar disorder",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "my grandfather has "
+            },
+            {
+                "value": "breast cancer",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "greet there's a past history of "
+            },
+            {
+                "value": "prostate cancer",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "greet there's a history of "
+            },
+            {
+                "value": "stroke",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "my father "
+            },
+            {
+                "value": "Alzheimer's",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "my uncle "
+            },
+            {
+                "value": "prostate cancer",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "greet we have "
+            },
+            {
+                "value": "hypertension",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "greet my family has has "
+            },
+            {
+                "value": "melanoma",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "greet there's a has "
+            },
+            {
+                "value": "breast cancer",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "we have "
+            },
+            {
+                "value": "colon cancer",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "greet there's a has "
+            },
+            {
+                "value": "mental illness",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "my family has history of "
+            },
+            {
+                "value": "breast cancer",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "my brother history of "
+            },
+            {
+                "value": "mental illness",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "greet we have past history of "
+            },
+            {
+                "value": "heart disease",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "greet my family has "
+            },
+            {
+                "value": "hypertension",
+                "type": "Slot",
+                "slot": "condition"
+            }
+        ]
+    ],
+    "greet": [
+        [
+            {
+                "type": "Text",
+                "value": "good day how are things going"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "hi good afternoon are you there"
+            }
+        ],
+        [
+            {
+                "value": "hello",
+                "type": "Text"
+            }
+        ],
+        [
+            {
+                "value": "hey",
+                "type": "Text"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "hello good afternoon sup"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "hey good afternoon are you around?"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "hello morning are you around?"
+            }
+        ],
+        [
+            {
+                "value": "good day",
+                "type": "Text"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "good night are you around?"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "good morning how are things going"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "hey good morning how are you doing"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "good afternoon how are you"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "hey good night whatsup"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "hello morning how are you doing"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "hello good morning"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "hey good morning are you around"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "good day how are you"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "hello are you there"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "hi good day whatsup"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "hey good day how are you doing"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "good day how is it going"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "hey morning how are things going"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "hey good day how is it going"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "hi good day whats up"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "hello good afternoon are you there"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "hey good night sup"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "hi good night whats up"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "hi greetings how are you doing"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "hey morning whats up"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "good morning are you there"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "good morning how are you"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "hello good day how are things going"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "good night how are you doing"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "hey good night"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "greetings how are you"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "hey greetings whats up"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "hello greetings how is it going"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "hello greetings how are you doing"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "hello morning whatsup"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "hey morning whatsup"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "hello good day are you there"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "hi morning how are you"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "hi good day how are you doing"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "hi morning whats up"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "hi morning sup"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "good night are you there"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "hi good morning are you around"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "hi how are you doing"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "hello good morning whats up"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "hi greetings how is it going"
+            }
+        ]
+    ],
+    "negative": [
+        [
+            {
+                "value": "that is wrong",
+                "type": "Text"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "no it's not good"
+            }
+        ],
+        [
+            {
+                "value": "it's not good",
+                "type": "Text"
+            }
+        ],
+        [
+            {
+                "value": "didnt meant that",
+                "type": "Text"
+            }
+        ],
+        [
+            {
+                "value": "that's not correct",
+                "type": "Text"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "plz nope that's wrong"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "don't do that please i don't want that"
+            }
+        ],
+        [
+            {
+                "value": "nope",
+                "type": "Text"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "plz don't do that that's not what i want"
+            }
+        ],
+        [
+            {
+                "value": "don't do that",
+                "type": "Text"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "don't do that i don't want that"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "don't do that pls i don't want that"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "don't do that plz dont mean that"
+            }
+        ],
+        [
+            {
+                "value": "i don't want that",
+                "type": "Text"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "pls not really that's not correct"
+            }
+        ],
+        [
+            {
+                "value": "incorrect",
+                "type": "Text"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "please not really"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "pls not really that's not what i want"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "pls incorrect that's wrong"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "that's not right pls i don't want that"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "incorrect pls that's wrong"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "plz nope that's not what i want"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "incorrect plz that's not correct"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "nope that's wrong"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "incorrect please its not ok"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "not really that's wrong"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "don't do that pls that is wrong"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "no pls"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "plz that's not right it's not good"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "don't do that pls that's wrong"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "incorrect plz didnt meant that"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "incorrect that's not what i want"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "please not really that's wrong"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "please nope it's not good"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "don't do that pls its not correct"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "not really pls i don't want that"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "don't do that plz its not correct"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "not really plz its not correct"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "please nope didnt meant that"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "pls nope i don't want that"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "no plz that's wrong"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "that's not right please dont mean that"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "incorrect pls that is wrong"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "please nope that's wrong"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "that's not right pls didnt meant that"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "pls no its not correct"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "no plz it's not good"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "pls nope that's not correct"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "plz don't do that"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "no dont mean that"
+            }
+        ]
+    ],
+    "affirmative": [
+        [
+            {
+                "value": "yes sir",
+                "type": "Text"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "yes yes sir thanks"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "sounds good that is fine yep"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "yes sir thank you"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "sounds good its fine correct"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "you understood me yes"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "sounds good that is what i want im ok with that"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "agreed sounds good thanks"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "yes sir you understood me agreed"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "affirmative that is correct correct"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "agreed that is good correct"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "yes sir that is good affirmative"
+            }
+        ],
+        [
+            {
+                "value": "yep",
+                "type": "Text"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "right that is right agreed"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "correct good yes sir"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "yes im ok with that thank you"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "correct its fine agreed"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "sounds good that is correct"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "its fine sounds good"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "that is good correct"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "affirmative that is good agreed"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "yes good sounds good"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "yes i want that"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "right agreed thank you"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "correct that is right right"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "yes i want that im ok with that"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "agreed that is fine"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "correct good im ok with that"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "yes sir you understood me right"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "agreed agreed thanks"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "correct thanks"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "agreed im ok with that thank you"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "agreed that is good"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "im ok with that that is fine right"
+            }
+        ],
+        [
+            {
+                "value": "im ok with that",
+                "type": "Text"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "agreed that is right im ok with that"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "im ok with that good affirmative"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "right yes"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "sounds good that is what i want affirmative"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "agreed that is fine agreed"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "right its fine affirmative"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "yes sir good"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "yes sir agreed thank you"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "right you understood me sounds good"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "yep agreed"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "yep affirmative thanks"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "yes sir that is right"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "agreed im ok with that thanks"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "yes good yes sir"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "yes agreed thank you"
+            }
+        ]
+    ],
+    "bye": [
+        [
+            {
+                "value": "ttyl",
+                "type": "Text"
+            }
+        ],
+        [
+            {
+                "value": "going out",
+                "type": "Text"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "talk to you later adieu"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "gtg thanks"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "im leaving now farewell"
+            }
+        ],
+        [
+            {
+                "value": "heading out",
+                "type": "Text"
+            }
+        ],
+        [
+            {
+                "value": "have to go",
+                "type": "Text"
+            }
+        ],
+        [
+            {
+                "value": "chao",
+                "type": "Text"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "going out farewell"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "leaving goodbye"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "talk to you soon chau"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "gtg thank you"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "adieu thanks"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "talk to you soon ttyl"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "thanks adieu"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "leaving chau"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "talk to you soon farewell"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "thank you chau"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "going out adieu"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "have to go gtg"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "talk to you later farewell"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "thanks ttyl"
+            }
+        ],
+        [
+            {
+                "value": "leaving",
+                "type": "Text"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "have to go ttyl"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "talk to you soon adieu"
+            }
+        ],
+        [
+            {
+                "value": "im leaving now",
+                "type": "Text"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "have to go chao"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "leaving chao"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "ttyl thank you"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "heading out chao"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "got to go farewell"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "talk to you soon gtg"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "talk to you later bye"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "thanks gtg"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "have to go adieu"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "talk to you soon adios"
+            }
+        ],
+        [
+            {
+                "value": "talk to you soon",
+                "type": "Text"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "im leaving now bye"
+            }
+        ],
+        [
+            {
+                "value": "talk to you later",
+                "type": "Text"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "have to go bye"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "going out ttyl"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "chao thank you"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "talk to you later chau"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "got to go adieu"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "thanks chao"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "talk to you soon bye"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "heading out bye"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "ttyl thanks"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "adios thank you"
+            }
+        ],
+        [
+            {
+                "type": "Text",
+                "value": "im leaving now chao"
+            }
+        ]
+    ]
+}

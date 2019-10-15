@@ -1,0 +1,184 @@
+%[reportFamilycondition]('training': '100', 'testing': '100')
+    *[60%] ~[greet?] ~[family has] ~[history?] @[condition]
+    *[40%] my ~[family member] ~[history?] @[condition]
+
+@[condition]
+    cancer
+    colon cancer
+    breast cancer
+    prostate cancer
+    lung cancer
+    melanoma
+    heart disease
+    asthma
+    Parkinson's
+    diabetes
+    stroke
+    depression
+    Alzheimer's
+    mental illness
+    schizophrenia
+    bipolar disorder
+    hypertension
+    high blood pressure
+    hypertension
+
+%[greet]('training': '50', 'testing': '50')
+    *[20%] ~[hi]
+    ~[greetings]
+    ~[hi] ~[greetings?]
+    ~[hi] ~[whats up]
+    ~[greetings] ~[whats up]
+    ~[hi] ~[greetings] ~[whats up]
+
+~[family member]
+    father
+    mother
+    sister
+    brother
+    grandmother
+    grandfather
+    aunt
+    uncle
+    cousin
+
+~[history]
+    history of
+    past history of
+    has
+
+~[family has]
+    my family has
+    we have
+    there's a  
+
+~[greetings]
+    greetings
+    good morning
+    good afternoon
+    good day
+    good night
+    morning
+
+~[whats up]
+    how are you
+    whats up
+    how are you doing
+    how is it going
+    are you there
+    how are things going
+    are you around
+    whatsup
+    sup
+    are you around?
+
+~[find]
+    find
+    i'm looking for
+    help me find
+
+~[located at]
+    located at
+    in the area of
+    near
+
+~[restaurants]
+    restaurants
+    places to eat
+    where to eat
+
+~[hi]
+    hi
+    hello
+    hey
+
+~[please]
+    please
+    plz
+    pls
+
+~[thanks]
+    thanks
+    thank you
+
+%[negative]('training': '50', 'testing': '50')
+    *[20%] ~[no]
+    ~[no] ~[please?] ~[its not ok?]
+    ~[please?] ~[no] ~[its not ok?]
+    *[20%] ~[its not ok]
+
+~[no]
+    no
+    nope
+    not really
+    that's not right
+    incorrect
+    don't do that
+
+~[its not ok]
+    i don't want that
+    didnt meant that
+    dont mean that
+    that's not what i want
+    that's not correct
+    that's wrong
+    it's not good
+    that is wrong
+    its not ok
+    its not correct
+
+%[affirmative]('training': '50', 'testing': '50')
+    *[20%] ~[yes]
+    ~[yes] ~[please?]
+    ~[yes] ~[yes?] ~[thanks?]
+    ~[yes?] ~[that is good] ~[yes?]
+
+~[yes]
+    yes
+    right
+    affirmative
+    agreed
+    correct
+    yep
+    yes sir
+    sounds good
+    im ok with that
+
+~[that is good]
+    that is good
+    i want that
+    that is fine
+    that is correct
+    that is what i want
+    you understood me
+    that is right
+    its fine
+    good
+
+%[bye]('training': '50', 'testing': '50')
+    *[20%] ~[bye]
+    ~[thanks?] ~[bye]
+    ~[bye] ~[thanks?]
+    ~[leaving]
+    ~[leaving] ~[bye]
+
+~[bye]
+    bye
+    goodbye
+    ttyl
+    gtg
+    adios
+    farewell
+    adieu
+    chao
+    chau
+
+~[leaving]
+    leaving
+    talk to you soon
+    have to go
+    got to go
+    talk to you later
+    heading out
+    im leaving now
+    going out

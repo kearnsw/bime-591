@@ -44,7 +44,7 @@ Natural Language Understanding
 We will explore how we can train agents to understand their conversational environments.
 
 ### Lecture:
-[Week 2 Slides](https://github.com/kearnsw/bime-591/blob/master/lectures/bime-591-week-2-nlu.pptx)
+[Week 2 Slides](https://github.com/kearnsw/bime-591/blob/master/lectures/bime-591-week-2-nlu.pdf)
 
 ### Reading:
 [ONENET:Joint Domain, Intent, Slot Prediction for Spoken Language Understanding](https://www.microsoft.com/en-us/research/publication/onenet-joint-domain-intent-slot-prediction-spoken-language-understanding/)
@@ -63,11 +63,13 @@ Tree Search
 ### Description: 
 We will model decisions as trees and learn to efficiently search them using classic algorithms such as breadth-first search and depth-first search. In addition, we will introduce heuristic based searches, including A* search. 
 
+### Lecture:
+[Week 3 Slides](https://github.com/kearnsw/bime-591/blob/master/lectures/Week%203.pdf)
 
 ### Reading:
-TBD
+None
 ### Coding:
-TBD
+[Week 3 Coding](https://github.com/kearnsw/bime-591/blob/master/notebooks/week_3.ipynb)
 
 ## Week 4 - 10/22/19
 

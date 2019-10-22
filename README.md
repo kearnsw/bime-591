@@ -79,10 +79,13 @@ Advanced Tree Searches
 ### Description: 
 We will cover how to model two player games as trees, and how the optimal strategy can be recovered from these trees. In addition, we will cover how to prune these trees to limit the total search space using alpha-beta pruning, and heuristic pruning. 
 
+### Lecture:
+[Week 4 Slides](https://github.com/kearnsw/bime-591/blob/master/lectures/Week%204.pdf)
+
 ### Reading:
-TBD
+None
 ### Coding:
-TBD
+In Class Exercise with Grundy's Game of Nim
 
 ## Week 5 - 10/29/19
 

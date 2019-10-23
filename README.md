@@ -96,7 +96,9 @@ Dialog Management
 
 
 ### Reading:
-TBD
+[Health dialog systems for patients and consumers](https://www.semanticscholar.org/paper/Health-dialog-systems-for-patients-and-consumers-Bickmore-Giorgino/f6eaef0326e19bace8c88b7dbb6b23461b9fb10a)
+
+[An overview of end-to-end language understanding and dialog management for personal digital assistants](https://www.semanticscholar.org/paper/An-overview-of-end-to-end-language-understanding-Sarikaya-Crook/047a000fdd280d1953d230d162374971a32cd6b8)
 
 ### Coding: 
 [Train Rasa DM with Interactive Learning](https://rasa.com/docs/rasa/core/interactive-learning/)

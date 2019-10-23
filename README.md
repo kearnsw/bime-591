@@ -67,7 +67,8 @@ We will model decisions as trees and learn to efficiently search them using clas
 [Week 3 Slides](https://github.com/kearnsw/bime-591/blob/master/lectures/Week%203.pdf)
 
 ### Reading:
-None
+[Joint A* CCG Parsing and Semantic Role Labelling](https://www.semanticscholar.org/paper/Joint-A*-CCG-Parsing-and-Semantic-Role-Labelling-Lewis-He/5894c9fbe9d14be08a48e34d0467da4213b6399c)
+
 ### Coding:
 [Week 3 Coding](https://github.com/kearnsw/bime-591/blob/master/notebooks/week_3.ipynb)
 

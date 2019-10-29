@@ -44,7 +44,7 @@ Natural Language Understanding
 We will explore how we can train agents to understand their conversational environments.
 
 ### Lecture:
-[Week 2 Slides](https://github.com/kearnsw/bime-591/blob/master/lectures/bime-591-week-2-nlu.pptx)
+[Week 2 Slides](https://github.com/kearnsw/bime-591/blob/master/lectures/bime-591-week-2-nlu.pdf)
 
 ### Reading:
 [ONENET:Joint Domain, Intent, Slot Prediction for Spoken Language Understanding](https://www.microsoft.com/en-us/research/publication/onenet-joint-domain-intent-slot-prediction-spoken-language-understanding/)
@@ -63,11 +63,14 @@ Tree Search
 ### Description: 
 We will model decisions as trees and learn to efficiently search them using classic algorithms such as breadth-first search and depth-first search. In addition, we will introduce heuristic based searches, including A* search. 
 
+### Lecture:
+[Week 3 Slides](https://github.com/kearnsw/bime-591/blob/master/lectures/Week%203.pdf)
 
 ### Reading:
-TBD
+[Joint A* CCG Parsing and Semantic Role Labelling](https://www.semanticscholar.org/paper/Joint-A*-CCG-Parsing-and-Semantic-Role-Labelling-Lewis-He/5894c9fbe9d14be08a48e34d0467da4213b6399c)
+
 ### Coding:
-TBD
+[Week 3 Coding](https://github.com/kearnsw/bime-591/blob/master/notebooks/week_3.ipynb)
 
 ## Week 4 - 10/22/19
 
@@ -77,10 +80,13 @@ Advanced Tree Searches
 ### Description: 
 We will cover how to model two player games as trees, and how the optimal strategy can be recovered from these trees. In addition, we will cover how to prune these trees to limit the total search space using alpha-beta pruning, and heuristic pruning. 
 
+### Lecture:
+[Week 4 Slides](https://github.com/kearnsw/bime-591/blob/master/lectures/Week%204.pdf)
+
 ### Reading:
-TBD
+None
 ### Coding:
-TBD
+In Class Exercise with Grundy's Game of Nim
 
 ## Week 5 - 10/29/19
 
@@ -91,7 +97,9 @@ Dialog Management
 
 
 ### Reading:
-TBD
+[Health dialog systems for patients and consumers](https://www.semanticscholar.org/paper/Health-dialog-systems-for-patients-and-consumers-Bickmore-Giorgino/f6eaef0326e19bace8c88b7dbb6b23461b9fb10a)
+
+[An overview of end-to-end language understanding and dialog management for personal digital assistants](https://www.semanticscholar.org/paper/An-overview-of-end-to-end-language-understanding-Sarikaya-Crook/047a000fdd280d1953d230d162374971a32cd6b8)
 
 ### Coding: 
 [Train Rasa DM with Interactive Learning](https://rasa.com/docs/rasa/core/interactive-learning/)

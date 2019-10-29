@@ -1,0 +1,106 @@
+[
+  { "state_num": 0,
+    "utterance": "Welcome to Husky Pizza! What would you like?",
+    "reprompt": "Would you like to order a pizza?",
+    "transition": {
+      "inform": 1
+      },
+    "slots": []
+  },
+  { "state_num": 11,
+    "utterance": "Ok {method}. First, I'll need a name for the order. What's your name?",
+    "reprompt": "What's your name?",
+    "transition": {
+      "inform": 12
+    },
+    "slots": ["PERSON"]
+  },
+  { "state_num": 12,
+    "utterance": "What's a good phone number to reach you at, {PERSON}?",
+    "reprompt": "I didn't recognize a phone number. A number is required so that our driver can contact you if there are any issues.",
+    "transition": {
+      "inform": 5
+    },
+    "slots": ["phone"]
+  },
+  {
+    "state_num": 10,
+    "utterance": "Is this for pick-up or delivery?",
+    "reprompt": "Pick-up or delivery?",
+    "transition": {
+      "inform": 1
+    },
+    "slots": ["method"]
+  },
+  { "state_num": 1,
+    "utterance": "Our most popular specialty pizzas are Hawaiian, Meat Lovers, 4 Cheese, Pepperoni, Veggie Supreme, and Vegan. Which option would you prefer?",
+    "reprompt": "We currently only accept orders for Hawaiian, Meat Lovers, 4 Cheese, Pepperoni, Veggie Supreme, and Vegan. Which option would you prefer?",
+    "intent": "inform",
+    "transition": {
+      "inform": 3
+    },
+    "slots": ["type"]
+  },
+  { "state_num": 2,
+    "utterance": "Ok, let me know if you change your mind.",
+    "transition": {},
+    "slots": []
+  },
+  { "state_num": 3,
+    "utterance": "Great, the {type}. Would you like a small, medium, or large?",
+    "reprompt": "What size would you like? We have three sizes: small, medium, and large",
+    "transition": {
+      "inform": 14,
+      "no": 1
+    },
+    "slots": ["size"]
+  },
+  { "state_num": 14,
+    "utterance": "Ok, would you like Thin, Regular, Deep Dish, or Gluten Free crust?",
+    "reprompt": "Would you like Thin, Regular, Deep Dish, or Gluten Free?",
+    "transition": {
+      "inform": 4,
+      "no": 3
+    },
+    "slots": ["crust"]
+  },
+  {
+    "state_num": 4,
+    "utterance": "I've got your order of a {size} {type} pizza with {crust} crust. Is this for pick-up or delivery?",
+    "reprompt": "Is this for pick-up or delivery?",
+    "transition": {
+      "delivery": 11,
+      "pick-up": 5,
+      "no": 14
+    },
+    "slots": ["method"]
+  },
+  {
+    "state_num": 5,
+    "utterance": "Your total is {price}. Would you like to place your order now?",
+    "transition": {
+      "yes": 16,
+      "no": 17
+    },
+    "slots": []
+  },
+  {
+    "state_num": 16,
+    "utterance": "Ok, I've placed your order.",
+    "transition": {},
+    "slots": []
+  },
+  {
+    "state_num": 17,
+    "utterance": "Let me know if you changed your mind.",
+    "transition": {},
+    "slots": []
+  },
+  {
+    "state_num": 6,
+    "utterance": "I've got {toppings}",
+    "reprompt": "Are these the right toppings?",
+    "transition": {},
+    "slots": []
+  }
+]

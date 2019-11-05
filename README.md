@@ -113,14 +113,16 @@ Markov Decision Processes
 ### Description: 
 In this class, we will extend our tree based decision models to graphs with Markov models. We will learn how to calculate the best route through a Markov decision process (MDPs) using the Bellman equations. Finally, we will extend these ideas to conversational agents using partially observable Markov decision processes (POMDPs).
 
+### Lecture:
+[Week 6](https://github.com/kearnsw/bime-591/blob/master/lectures/Week%206.pdf)
+
 ### Reading:
 [POMDP-Based StatisticalSpoken Dialog Systems:A Review](http://cs.brown.edu/courses/csci2951-k/papers/young13.pdf)
 
 [Training a real-world POMDP-based Dialogue System](https://pdfs.semanticscholar.org/c746/fe146789142262b749d362f5a0f38f3bf8ad.pdf)
 
 ### Coding:
-TBD
-
+None
 
 ## Week 7 - 11/12/2019
 
@@ -149,7 +151,6 @@ Moving past basic tabular Q-learning, we will cover current approaches which rev
 
 ### Coding: 
 [Train dialog policy w/ episodic replay](https://rasa.com/docs/rasa/core/policies/#configuring-policies)
-
 
 ## Week 9 - 11/26/2019
 

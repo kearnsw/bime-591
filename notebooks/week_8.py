@@ -10,21 +10,23 @@ import gym
 
 # Details at https://github.com/openai/gym/blob/master/gym/envs/classic_control/cartpole.py
 
-# Observation: 
-# Type: Box(4)
+# State: 
 # Num	Observation                 Min         Max
 # 0		Cart Position              -4.8         4.8
 # 1		Cart Velocity              -Inf         Inf
 # 2		Pole Angle                 -24 deg      24 deg
 # 3		Pole Velocity At Tip       -Inf         Inf
 
+# Actions:
+# Type: Discrete(2)
+# Num	Action
+# 0		Push cart to the left
+# 1		Push cart to the right
+
 # Handcrafted Agent
 class handcrafted_agent():
 	def choose_action(self, state):
-		if state[3] < 0:
-			return 0
-		else:
-			return 1
+		return 0
 
 # Deep Q Network Agent
 class dqn_agent():

@@ -149,6 +149,8 @@ Moving past basic tabular Q-learning, we will cover current approaches which rev
 ### Reading: 
 [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
 
+[Agenda-based user simulation for bootstrapping a POMDP dialogue system](https://dl.acm.org/citation.cfm?id=1614146)
+
 [A User Simulator for Task-Completion Dialogues](https://arxiv.org/abs/1612.05688)
 
 ### Coding: 

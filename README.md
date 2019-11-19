@@ -166,9 +166,9 @@ Advanced Neural Methods for Dialog Systems
 We will cover advanced neural architectures for training dialog systems, e.g. A2C and MemNN models.
 
 ### Reading:
-[Sample-efficient Actor-Critic Reinforcement Learning with Supervised Data for Dialogue Management](https://arxiv.org/pdf/1707.00130.pdf)
+[ConveRT: Efficient and Accurate Conversational Representations from Transformers](https://arxiv.org/abs/1911.03688)
 
-[Understanding Actor Critic Methods and A2C](https://towardsdatascience.com/understanding-actor-critic-methods-931b97b6df3f)
+[The Illustrated Transformer (Transformer Tutorial)](http://jalammar.github.io/illustrated-transformer/)
 
 ### Coding: 
 TBD

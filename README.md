@@ -148,10 +148,12 @@ Moving past basic tabular Q-learning, we will cover current approaches which rev
 
 ### Reading: 
 [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
+
 [A User Simulator for Task-Completion Dialogues](https://arxiv.org/abs/1612.05688)
 
 ### Coding: 
 [Train dialog policy w/ episodic replay](https://rasa.com/docs/rasa/core/policies/#configuring-policies)
+
 [Train a DQN using an agenda based User Simulator](https://github.com/kearnsw/TC-Bot)
 ## Week 9 - 11/26/2019
 

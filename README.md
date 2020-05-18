@@ -160,6 +160,10 @@ Moving past basic tabular Q-learning, we will cover current approaches which rev
 [A User Simulator for Task-Completion Dialogues](https://arxiv.org/abs/1612.05688)
 
 ### Coding: 
+[Week 8: Deep Learning](https://github.com/kearnsw/bime-591/blob/master/notebooks/week_8.ipynb)
+
+[Week 8: Cart Pole](https://github.com/kearnsw/bime-591/blob/master/notebooks/week_8.py)
+
 [Train dialog policy w/ episodic replay](https://rasa.com/docs/rasa/core/policies/#configuring-policies)
 
 [Train a DQN using an agenda based User Simulator](https://github.com/kearnsw/TC-Bot)

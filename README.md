@@ -132,6 +132,9 @@ Q-Learning
 ### Description: 
 Here we will introduce one of the key concepts in RL, Q-learning. This approach overcomes the limitations of MDPs and allows us to conduct on-line or off-line learning without complete information.
 
+### Lecture:
+[Week 7](https://github.com/kearnsw/bime-591/blob/master/lectures/Week%207.pdf)
+
 ### Reading:
 TBD
 

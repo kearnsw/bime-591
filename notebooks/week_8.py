@@ -26,7 +26,10 @@ import gym
 # Handcrafted Agent
 class handcrafted_agent():
 	def choose_action(self, state):
-		return 0
+		if state[3] < 0:
+			return 0
+		else:
+			return 1
 
 # Deep Q Network Agent
 class dqn_agent():
@@ -108,28 +111,28 @@ class dqn_agent():
 			self.update_weights()
 
 def main():
-	environment = gym.make('CartPole-v1')
-	state = environment.reset()
-	for i in range(200):
-		environment.render()
-		# Take a random action.
-		state, reward, done, info = environment.step(environment.action_space.sample())
-	environment.close()
+	# environment = gym.make('CartPole-v1')
+	# state = environment.reset()
+	# for i in range(200):
+	# 	environment.render()
+	# 	# Take a random action.
+	# 	state, reward, done, info = environment.step(environment.action_space.sample())
+	# environment.close()
 
-	tf.logging.set_verbosity(tf.logging.ERROR)
-	agent = dqn_agent()
+	# tf.logging.set_verbosity(tf.logging.ERROR)
+	# agent = dqn_agent()
 
-	agent.train(1000)
+	# agent.train(1000)
 
-	environment = gym.make('CartPole-v1')
-	state = environment.reset()
-	done = False
-	while not done:
-		environment.render()
-		# Agent picks an action. 
-		action = agent.choose_action(state.reshape(1,4))
-		state, reward, done, info = environment.step(action)
-	environment.close()
+	# environment = gym.make('CartPole-v1')
+	# state = environment.reset()
+	# done = False
+	# while not done:
+	# 	environment.render()
+	# 	# Agent picks an action. 
+	# 	action = agent.choose_action(state.reshape(1,4))
+	# 	state, reward, done, info = environment.step(action)
+	# environment.close()
 
 	agent = handcrafted_agent()
 	environment = gym.make('CartPole-v1')

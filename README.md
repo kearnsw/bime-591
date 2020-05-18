@@ -146,6 +146,9 @@ Deep Q-Networks
 ### Description: 
 Moving past basic tabular Q-learning, we will cover current approaches which revolve around Deep Q-Networks (DQN). We will cover popular examples of DQNs used to master video games, and conversations. Finally, we will cover how to efficiently train these models using experience replay. 
 
+### Lecture:
+[Week 8](https://github.com/kearnsw/bime-591/blob/master/lectures/Week%208.pdf)
+
 ### Reading: 
 [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
 
